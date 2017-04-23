@@ -13,7 +13,7 @@
   <artifactId>server</artifactId>
   <packaging>jar</packaging>
   <name>Server</name>
-  <description>Logic.</description>
+  <description>Logic New.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
